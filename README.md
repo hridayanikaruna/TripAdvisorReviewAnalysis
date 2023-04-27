@@ -1,2 +1,2 @@
 # TripAdvisorReviewAnalysis
-Sentiment Analysis with TripAdvisor Review Data using Naive Bayes Classifier
+Sentiment Analysis with TripAdvisor Reviews Data using Naive Bayes Classifier.
